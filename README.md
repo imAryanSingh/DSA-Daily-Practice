@@ -21,7 +21,7 @@
 | 1 | 1 | Two Sum | LC #1 | HashMap / Arrays | Easy | [two-sum.py](Arrays-Strings/two-sum.py) |
 | 1 | 2 | Sort 0s 1s 2s | LC #75 | Dutch National Flag | Medium | [sort-0s-1s-2s.py](Arrays-Strings/sort-0s-1s-2s.py) |
 | 1 | 3 | Watermelon | CF 4A | Math / Parity | 800 | [4A-watermelon.py](Codeforces/4A-watermelon.py) |
-| 2 | 4 | Contains Duplicate | LC #217 | HashSet / Arrays | Easy | [contains-duplicate.py](Arrays-Strings/contains-duplicate.py) |
+| 2 | ✨ | Contains Duplicate | LC #217 | HashSet / Arrays | Easy | [contains-duplicate.py](Arrays-Strings/contains-duplicate.py) |
 | 2 | 5 | Maximum Subarray | LC #53 | Kadane's / DP | Medium | [maximum-subarray.py](Arrays-Strings/maximum-subarray.py) |
 | 2 | 6 | Theatre Square | CF 1A | Math / Ceiling Div | 800 | [1A-theatre-square.py](Codeforces/1A-theatre-square.py) |
 
