@@ -21,6 +21,17 @@ class Solution:
             seen.add(num) # 2 num ko add kiya seen me 
         return False
 
+#Best Approach
+class Solution:
+    def containsDuplicate(self, nums: List[int]) -> bool:
+        nums_no_dup = set(nums)
+        len_no_dup_nums = len(nums_no_dup)
+        len_nums = len(nums)
+
+        if len_no_dup_nums == len_nums:
+            res = False
+        else:
+            res = True
 
 # ── Test cases ──────────────────────────────────────────────────────────────
 if __name__ == "__main__":
