@@ -16,17 +16,18 @@ Goal: MAANG / Microsoft SDE  |  Started: 2026-05-22  |  Owner: Aryan Singh
 
 ## Problem Log
 
-| Day | #  | Problem                    | Source  | Topic              | Difficulty | Solution File                                    |
-|-----|----|----------------------------|---------|--------------------|------------|--------------------------------------------------|
-|  1  |  1 | Two Sum                    | LC #1   | HashMap / Arrays   | Easy       | Arrays-Strings/two-sum.py                        |
-|  1  |  2 | Sort 0s 1s 2s              | LC #75  | Dutch National Flag| Medium     | Arrays-Strings/sort-0s-1s-2s.py                  |
-|  1  |  3 | Watermelon                 | CF 4A   | Math / Parity      | 800        | Codeforces/4A-watermelon.py                      |
-|  2  |  4 | Contains Duplicate         | LC #217 | HashSet / Arrays   | Easy       | Arrays-Strings/contains-duplicate.py             |
-|  2  |  5 | Maximum Subarray           | LC #53  | Kadane's / DP      | Medium     | Arrays-Strings/maximum-subarray.py               |
-|  2  |  6 | Theatre Square             | CF 1A   | Math / Ceiling Div | 800        | Codeforces/1A-theatre-square.py                  |
-|  3  |  7 | Valid Anagram               | LC #242 | HashMap / Strings  | Easy       | Arrays-Strings/valid-anagram.py                  |
-|  3  |  8 | Best Time to Buy & Sell    | LC #121 | Sliding Window     | Easy       | Arrays-Strings/best-time-stock.py                |
-|  3  |  9 | Way Too Long Words         | CF 71A  | Strings / Impl     | 800        | Codeforces/71A-way-too-long-words.py             |
+| Day | # | Problem | Source | Topic | Difficulty | Solution |
+|---|---|---------|--------|-------|------------|----------|
+| 1 | 1 | Two Sum | LC #1 | HashMap / Arrays | Easy | [two-sum.py](Arrays-Strings/two-sum.py) |
+| 1 | 2 | Sort 0s 1s 2s | LC #75 | Dutch National Flag | Medium | [sort-0s-1s-2s.py](Arrays-Strings/sort-0s-1s-2s.py) |
+| 1 | 3 | Watermelon | CF 4A | Math / Parity | 800 | [4A-watermelon.py](Codeforces/4A-watermelon.py) |
+| 2 | 4 | Contains Duplicate | LC #217 | HashSet / Arrays | Easy | [contains-duplicate.py](Arrays-Strings/contains-duplicate.py) |
+| 2 | 5 | Maximum Subarray | LC #53 | Kadane's / DP | Medium | [maximum-subarray.py](Arrays-Strings/maximum-subarray.py) |
+| 2 | 6 | Theatre Square | CF 1A | Math / Ceiling Div | 800 | [1A-theatre-square.py](Codeforces/1A-theatre-square.py) |
+| 3 | 7 | Valid Anagram | LC #242 | HashMap / Strings | Easy | [valid-anagram.py](Arrays-Strings/valid-anagram.py) |
+| 3 | 8 | Best Time to Buy & Sell | LC #121 | Sliding Window | Easy | [best-time-stock.py](Arrays-Strings/best-time-stock.py) |
+| 3 | 9 | Way Too Long Words | CF 71A | Strings / Impl | 800 | [71A-way-too-long-words.py](Codeforces/71A-way-too-long-words.py) |
+
 
 ---
 
